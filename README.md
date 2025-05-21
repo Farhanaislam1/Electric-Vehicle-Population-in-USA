@@ -49,7 +49,8 @@ Compare BEVs and PHEVs by manufacturer, city, and electric range.
 Identify trends in electric vehicle adoption using visualizations and summary statistics.
 # 📈 Key Insight & Visualizations
 
-# How EV adoption changed over the years — steady exponential growth since 2013, crossing 200 k registrations in 2024.
+# How EV adoption changed over the years — steady exponential growth since 2011, crossing 200 k registrations in 2024.
+## From 1999 to 2010, EV adoption remained minimal, but beginning in 2011, the number of electric vehicles steadily increased, peaking around 2018. Despite a slight dip in 2019, the overall trend from 2010 to 2023 shows a sixfold growth in EV adoption, rising from approximately 10,000 to 60,000 vehicles.
 
 
 ![image](https://github.com/user-attachments/assets/b0f564e1-7c0b-400d-bc4f-a3ff7bc335ae)
@@ -59,7 +60,7 @@ Identify trends in electric vehicle adoption using visualizations and summary st
 
 ![image](https://github.com/user-attachments/assets/89d37606-8a0c-4f8a-9638-f57aa98e0581)
 
-# Which manufacturers dominate the EV market? — Tesla holds >55 % share, far ahead of Nissan, Chevrolet, and Ford.
+# Which manufacturers dominate the EV market? — Tesla holds >51 % share, far ahead of Nissan, Chevrolet, and Ford.
 ![image](https://github.com/user-attachments/assets/cd84e515-0b68-44ae-a0f3-36354354410b)
 
 # Top 5 Manufacturers by Unique EV Models (Last 10 Years)
@@ -82,12 +83,13 @@ Identify trends in electric vehicle adoption using visualizations and summary st
 ![image](https://github.com/user-attachments/assets/2d4bdb62-c8c8-4575-93b7-feca071553af)
 
 
-# BEV vs PHEV split — BEVs now comprise ~72 % of total EVs.
+# BEV vs PHEV split — BEVs now comprise ~79 % of total EVs.
 
 ![image](https://github.com/user-attachments/assets/b8f7ea77-97c4-4ab9-8592-d60a397771ce)
 
 
-# Number of EVs for the top 5 manufacturers (last 10 yrs) — Tesla’s curve dwarfs others; notable upticks for Ford & Hyundai post‑2022.
+# Number of EVs for the top 5 manufacturers (last 10 yrs) — Tesla has overwhelmingly dominated the EV market
+#### Over the past decade, Tesla has overwhelmingly dominated the EV market, showing a fivefold increase in sales and consistently leading in adoption. Following Tesla, manufacturers like Ford, Kia, Chevrolet, and Nissan have also experienced steady growth, indicating broader industry momentum toward electrification. This trend highlights both Tesla’s market leadership and the increasing competitiveness among other top manufacturers
 ![image](https://github.com/user-attachments/assets/768a0987-2239-4d8e-8547-7aea6c8ed9b4)
 
 # 🛠️ Tools & Technologies
