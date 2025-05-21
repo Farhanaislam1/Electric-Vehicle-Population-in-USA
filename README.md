@@ -13,7 +13,8 @@ Contents: Current registrations of BEVs and PHEVs
 
 Geographic Scope: Washington State, USA
 
-Key Fields in the Dataset
+# Key Fields in the Dataset
+
 VIN (1-10): Vehicle Identification Number (truncated)
 
 County: County where the vehicle is registered
@@ -47,15 +48,45 @@ Compare BEVs and PHEVs by manufacturer, city, and electric range.
 
 Identify trends in electric vehicle adoption using visualizations and summary statistics.
 # 📈 Sample Analysis Topics
-Distribution of BEVs vs PHEVs
+# Key Insight
 
-Top EV models by registration count
+# How EV adoption changed over the years — steady exponential growth since 2013, crossing 200 k registrations in 2024.
 
-Cities with the highest EV adoption
 
-EV range analysis by make/model
+![image](https://github.com/user-attachments/assets/b0f564e1-7c0b-400d-bc4f-a3ff7bc335ae)
 
-Visualization of EV distribution using maps
+
+# Top 10 Electric Vehicle Models — Tesla’s Model Y leads, followed by Model 3 and Nissan Leaf.
+
+![image](https://github.com/user-attachments/assets/89d37606-8a0c-4f8a-9638-f57aa98e0581)
+
+# Which manufacturers dominate the EV market? — Tesla holds >55 % share, far ahead of Nissan, Chevrolet, and Ford.
+![image](https://github.com/user-attachments/assets/cd84e515-0b68-44ae-a0f3-36354354410b)
+
+
+# Most‑sold models for the top‑10 manufacturers — e.g., Nissan Leaf, Chevy Bolt EV, Ford Mustang Mach‑E, etc.
+
+![image](https://github.com/user-attachments/assets/4c6cdba4-d7cb-48c4-ac97-515071775462)
+
+
+# Electric range by make + model — violin/box plot showing wider ranges for recent Tesla & Rivian models.
+
+![image](https://github.com/user-attachments/assets/c8d5658f-2ae3-42ac-b1de-a4a8efd6d3c1)
+![image](https://github.com/user-attachments/assets/bda92e6c-81a4-4181-830c-c7935be2b2f6)
+
+
+# Regional adoption (top 10 cities) — Seattle, Bellevue, and Redmond are leading hotspots.
+
+![image](https://github.com/user-attachments/assets/2d4bdb62-c8c8-4575-93b7-feca071553af)
+
+
+# BEV vs PHEV split — BEVs now comprise ~72 % of total EVs.
+
+![image](https://github.com/user-attachments/assets/b8f7ea77-97c4-4ab9-8592-d60a397771ce)
+
+
+# Number of EVs for the top 5 manufacturers (last 10 yrs) — Tesla’s curve dwarfs others; notable upticks for Ford & Hyundai post‑2022.
+![image](https://github.com/user-attachments/assets/768a0987-2239-4d8e-8547-7aea6c8ed9b4)
 
 # 🛠️ Tools & Technologies
 Python (pandas, matplotlib, seaborn, plotly)
@@ -71,34 +102,4 @@ This project is for educational and non-commercial research purposes. Data is ma
 Data sourced from Data.gov
 
 Maintained by the Washington State Department of Licensing (DOL)
-# Key Insight
 
-# How EV adoption changed over the years — steady exponential growth since 2013, crossing 200 k registrations in 2024.
-
-
-
-# Top 10 Electric Vehicle Models — Tesla’s Model Y leads, followed by Model 3 and Nissan Leaf.
-
-
-
-# Which manufacturers dominate the EV market? — Tesla holds >55 % share, far ahead of Nissan, Chevrolet, and Ford.
-
-
-
-# Most‑sold models for the top‑10 manufacturers — e.g., Nissan Leaf, Chevy Bolt EV, Ford Mustang Mach‑E, etc.
-
-
-
-# Electric range by make + model — violin/box plot showing wider ranges for recent Tesla & Rivian models.
-
-
-
-# Regional adoption (top 10 cities) — Seattle, Bellevue, and Redmond are leading hotspots.
-
-
-
-# BEV vs PHEV split — BEVs now comprise ~72 % of total EVs.
-
-
-
-# Number of EVs for the top 5 manufacturers (last 10 yrs) — Tesla’s curve dwarfs others; notable upticks for Ford & Hyundai post‑2022.
