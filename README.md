@@ -1,5 +1,5 @@
 # Electric-Vehicle-Population-in-USA
-🚗 Electric Vehicle Population Data (Washington State)
+# 🚗 Electric Vehicle Population Data (Washington State)
 This project analyzes the Electric Vehicle (EV) Population Data provided by the Washington State Department of Licensing (DOL). The dataset includes registrations of Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) in the state.
 
 📊 Dataset Overview
