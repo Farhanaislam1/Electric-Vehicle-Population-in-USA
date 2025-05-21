@@ -50,13 +50,13 @@ Identify trends in electric vehicle adoption using visualizations and summary st
 # 📈 Key Insight & Visualizations
 
 # How EV adoption changed over the years — steady exponential growth since 2011, crossing 200 k registrations in 2024.
-## From 1999 to 2010, EV adoption remained minimal, but beginning in 2011, the number of electric vehicles steadily increased, peaking around 2018. Despite a slight dip in 2019, the overall trend from 2010 to 2023 shows a sixfold growth in EV adoption, rising from approximately 10,000 to 60,000 vehicles.
+#### From 1999 to 2010, EV adoption remained minimal, but beginning in 2011, the number of electric vehicles steadily increased, peaking around 2018. Despite a slight dip in 2019, the overall trend from 2010 to 2023 shows a sixfold growth in EV adoption, rising from approximately 10,000 to 60,000 vehicles.
 
 
 ![image](https://github.com/user-attachments/assets/b0f564e1-7c0b-400d-bc4f-a3ff7bc335ae)
 
 
-# Top 10 Electric Vehicle Models — Tesla’s Model Y leads, followed by Model 3 and Nissan Leaf.
+# Top 10 Electric Vehicle Models — Tesla’s Model Y leads, followed by Nissan Leaf.
 
 ![image](https://github.com/user-attachments/assets/89d37606-8a0c-4f8a-9638-f57aa98e0581)
 
@@ -67,7 +67,7 @@ Identify trends in electric vehicle adoption using visualizations and summary st
 
 ![image](https://github.com/user-attachments/assets/9aa569cb-3704-4ca4-8e7a-2df2382d2f1d)
 
-# Most‑sold models for the top‑10 manufacturers — e.g., Nissan Leaf, Chevy Bolt EV, Ford Mustang Mach‑E, etc.
+# Most‑sold models for the top‑10 manufacturers
 
 ![image](https://github.com/user-attachments/assets/4c6cdba4-d7cb-48c4-ac97-515071775462)
 
@@ -78,7 +78,7 @@ Identify trends in electric vehicle adoption using visualizations and summary st
 ![image](https://github.com/user-attachments/assets/bda92e6c-81a4-4181-830c-c7935be2b2f6)
 
 
-# Regional adoption (top 10 cities) — Seattle, Bellevue, and Redmond are leading hotspots.
+# Regional adoption (top 10 cities) — Seattle, Bellevue, Vancouver, and Redmond are leading hotspots.
 
 ![image](https://github.com/user-attachments/assets/2d4bdb62-c8c8-4575-93b7-feca071553af)
 
