@@ -62,6 +62,9 @@ Identify trends in electric vehicle adoption using visualizations and summary st
 # Which manufacturers dominate the EV market? — Tesla holds >55 % share, far ahead of Nissan, Chevrolet, and Ford.
 ![image](https://github.com/user-attachments/assets/cd84e515-0b68-44ae-a0f3-36354354410b)
 
+# Top 5 Manufacturers by Unique EV Models (Last 10 Years)
+
+![image](https://github.com/user-attachments/assets/9aa569cb-3704-4ca4-8e7a-2df2382d2f1d)
 
 # Most‑sold models for the top‑10 manufacturers — e.g., Nissan Leaf, Chevy Bolt EV, Ford Mustang Mach‑E, etc.
 
